@@ -31,7 +31,7 @@ I craft algorithms that help machines **see** and **hear**—from real‑time ob
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/amirmohammad-saberi-a07462263) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/amirmohammad-saberi-a07462263) 
 
 
 ---
